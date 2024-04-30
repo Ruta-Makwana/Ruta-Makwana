@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently on my way to become a full-stack developer.
 - 🤔 I am passionate about using technology to solve complex problems and improve lives.
 - 💬 Ask me about programming concepts, software development methodologies, and best practices for building high-quality, scalable applications. 
-- 📫 How to reach me: ...
 - 😄 Pronouns: leader, communicator, quick-learner
